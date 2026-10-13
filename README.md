@@ -8,15 +8,15 @@ Proyek UTS Praktikum POPL A.
 
 | Nama | NIM | Peran utama |
 |---|---|---|
-| (isi nama anggota 1) | (isi NIM) | (contoh: katalog, filter, dan pencarian) |
-| (isi nama anggota 2) | (isi NIM) | (contoh: detail event, pendaftaran, bookmark) |
-| (isi nama anggota 3) | (isi NIM) | (contoh: kalender, Docker, dokumentasi) |
+| (Annisa Rahma Fathia) | (2408107010027) | (katalog, filter, dan pencarian) |
+| (Putroe Fatimah Azzahra) | (2408107010002) | (detail event, pendaftaran, bookmark) |
+| (Fayla Syifa Rustam) | (2408107010029) | (kalender, Docker, dokumentasi) |
 
 ## Docker Hub
 
-Link repository publik: **https://hub.docker.com/r/USERNAME/eventku** (ganti USERNAME)
+Link repository publik: **https://hub.docker.com/r/faelynss/eventku** 
 
-Image yang dikumpulkan: `USERNAME/eventku:v1-UTS`
+Image yang dikumpulkan: `faelynss/eventku:v1-UTS`
 
 ## Latar belakang, tujuan, dan manfaat
 
