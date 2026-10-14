@@ -1,4 +1,4 @@
-# EventKu USK
+# EventKu
 
 Aplikasi web untuk menemukan lomba, seminar, workshop, dan open recruitment kepanitiaan di Universitas Syiah Kuala (USK), Banda Aceh, lengkap dengan bookmark, kalender, link pendaftaran ke penyelenggara, dan penanda event yang sudah didaftar.
 
