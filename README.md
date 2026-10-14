@@ -127,7 +127,7 @@ Dockerfile memakai multi-stage build: tahap pertama (Node 20 Alpine) menginstal 
 
 ```bash
 # build dan beri tag (wajib berakhiran -UTS)
-docker build -t USERNAME/eventku:v1-UTS .
+docker build -t faelynss/eventku:v1-UTS .
 
 # tes lokal
 docker run --rm -p 8080:80 USERNAME/eventku:v1-UTS
@@ -135,7 +135,7 @@ docker run --rm -p 8080:80 USERNAME/eventku:v1-UTS
 
 # push ke repository publik Docker Hub
 docker login
-docker push USERNAME/eventku:v1-UTS
+docker push faelynss/eventku:v1-UTS
 ```
 
 ## Aturan Git
